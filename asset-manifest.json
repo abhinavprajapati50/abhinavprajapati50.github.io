@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.29bc8131.css",
-    "main.js": "/static/js/main.90c9b68c.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "main.css": "/static/css/main.5cb61d58.css",
+    "main.js": "/static/js/main.97089564.js",
+    "static/js/415.fc063c41.chunk.js": "/static/js/415.fc063c41.chunk.js",
+    "static/js/787.f6e65957.chunk.js": "/static/js/787.f6e65957.chunk.js",
     "static/media/saloon.png": "/static/media/saloon.00d6e3a21dac1693e995.png",
+    "static/media/smartstartusa.png": "/static/media/smartstartusa.aa30d88d1dff65f95cf9.png",
     "static/media/chatlist.png": "/static/media/chatlist.773dd4798fdcdb6a904f.png",
-    "static/media/Abhinav.pdf": "/static/media/Abhinav.6cd46c0e06d815441834.pdf",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
@@ -16,13 +16,13 @@
     "static/media/avatar.svg": "/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
-    "main.29bc8131.css.map": "/static/css/main.29bc8131.css.map",
-    "main.90c9b68c.js.map": "/static/js/main.90c9b68c.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.5cb61d58.css.map": "/static/css/main.5cb61d58.css.map",
+    "main.97089564.js.map": "/static/js/main.97089564.js.map",
+    "415.fc063c41.chunk.js.map": "/static/js/415.fc063c41.chunk.js.map",
+    "787.f6e65957.chunk.js.map": "/static/js/787.f6e65957.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29bc8131.css",
-    "static/js/main.90c9b68c.js"
+    "static/css/main.5cb61d58.css",
+    "static/js/main.97089564.js"
   ]
 }
