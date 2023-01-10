@@ -4,6 +4,7 @@ import bitsOfCode from "../../Assets/Projects/blog.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import chatlist from "../../Assets/Projects/chatlist.png";
 import saloon from "../../Assets/Projects/saloon.png";
+import smartstartusa from "../../Assets/Projects/smartstartusa.png";
 import Particle from "../Particle";
 import ProjectCard from "./ProjectCards";
 
@@ -37,6 +38,15 @@ function Projects() {
               description="This project is based on the Treding application. I worked on ReactJs developer in that project.
                            My Roles is to fix to Ui and calculating the things by formulas  which given from client."
               technology="ReactJs, Context-api, Redux, NodeJs, Mongodb"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={smartstartusa}
+              isBlog={false}
+              title="Smart Start USA"
+              description="Learning base plateform which is user can come our platform and learn it but we have free courses and paiod courses we have it."
+              demoLink="https://school.smartstartus.com/"
             />
           </Col>
 
