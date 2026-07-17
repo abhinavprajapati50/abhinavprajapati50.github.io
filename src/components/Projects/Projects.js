@@ -4,7 +4,11 @@ import bitsOfCode from "../../Assets/Projects/blog.png";
 import chatify from "../../Assets/Projects/chatify.png";
 import chatlist from "../../Assets/Projects/chatlist.png";
 import saloon from "../../Assets/Projects/saloon.png";
+import axismf from "../../Assets/Projects/axis-mutual-fund.png";
 import smartstartusa from "../../Assets/Projects/smartstartusa.png";
+import bmcHealth from "../../Assets/Projects/bmchealthcare.png";
+import ohif from "../../Assets/Projects/Bmc-radiology-ohif.png";
+import radiologyImg from "../../Assets/Projects/ohif-bmc.png";
 import Particle from "../Particle";
 import ProjectCard from "./ProjectCards";
 
@@ -20,7 +24,44 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+
           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={axismf}
+              isBlog={false}
+              title="Axis Mutuak Fund"
+              description="n Indian asset management company that offers a wide range of mutual fund investment solutions to help individuals build long-term wealth and achieve their financial goals."
+              technology="ReactsJs, Context-api."
+              demoLink="https://www.axismf.com/"
+
+            />
+          </Col>
+
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bmcHealth}
+              isBlog={false}
+              title="BMC Healthcare"
+              description="This project is related to healthcare management and involves developing a web application for managing patient records and appointments."
+              technology="ReactsJs, Context-api."
+              demoLink="https://qa.bmchealth.in/"
+
+            />
+          </Col>
+
+
+
+           <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={radiologyImg}
+              isBlog={false}
+              title="BMC OHIF"
+              description="This project is related to medical imaging and involves developing a web application for viewing and analyzing medical images."
+              technology="ReactsJs, Context-api."
+            />
+          </Col>
+           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
@@ -29,6 +70,7 @@ function Projects() {
               technology="ReactsJs, Context-api."
             />
           </Col>
+          
 
           <Col md={4} className="project-card">
             <ProjectCard
